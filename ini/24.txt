@@ -1,0 +1,16 @@
+# ini file
+
+[ first_main_name ]	# main name
+
+# name = value
+
+author = 24k
+time = 2019-05-10~12:00
+s1 = 'hello'
+s2 = "world"
+
+
+  [ everything_is_ok   ] 
+aaa =333
+bbbbb=99999
+llllll = kkkkkkk
